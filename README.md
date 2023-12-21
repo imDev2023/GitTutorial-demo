@@ -1,4 +1,4 @@
 # GitTutorial-demo
-This is my testgit Repository
+This is my testgit Repository.
 
-Author - Farhan Basharat
+<h1>Author - Farhan Basharat</h1>
